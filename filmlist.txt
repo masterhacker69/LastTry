@@ -1,0 +1,38 @@
+Star Wars: Die letzten Jedi 3D;Cineplex Lippstadt;07.01.2018;14:30
+Star Wars: Die letzten Jedi 3D;Cineplex Lippstadt;07.01.2018;17:00
+Star Wars: Die letzten Jedi 3D;Cineplex Lippstadt;07.01.2018;20:15
+Star Wars: Die letzten Jedi 3D;Cineplex Lippstadt;08.01.2018;17:00
+Star Wars: Die letzten Jedi 3D;Cineplex Lippstadt;08.01.2018;20:00
+Star Wars: Die letzten Jedi 3D;Cineplex Lippstadt;09.01.2018;17:00
+Star Wars: Die letzten Jedi 3D;Cineplex Lippstadt;09.01.2018;20:00
+Star Wars: Die letzten Jedi 2D;Cineplex Lippstadt;07.01.2018;16:00
+Star Wars: Die letzten Jedi 2D;Cineplex Lippstadt;07.01.2018;19:45
+Star Wars: Die letzten Jedi 2D;Cineplex Lippstadt;08.01.2018;16:00
+Star Wars: Die letzten Jedi 2D;Cineplex Lippstadt;08.01.2018;19:45
+Star Wars: Die letzten Jedi 2D;Cineplex Lippstadt;09.01.2018;16:00
+Star Wars: Die letzten Jedi 2D;Cineplex Lippstadt;09.01.2018;19:45
+Star Wars: Die letzten Jedi 3D;Universum Soest;07.01.2018;17:15
+Star Wars: Die letzten Jedi 3D;Universum Soest;07.01.2018;20:30
+Star Wars: Die letzten Jedi 3D;Universum Soest;08.01.2018;17:30
+Star Wars: Die letzten Jedi 3D;Universum Soest;08.01.2018;20:30
+Star Wars: Die letzten Jedi 3D;Universum Soest;09.01.2018;17:30
+Star Wars: Die letzten Jedi 3D;Universum Soest;09.01.2018;20:30
+Star Wars: Die letzten Jedi 2D;Universum Soest;07.01.2018;11:00
+Star Wars: Die letzten Jedi 2D;Universum Soest;07.01.2018;14:00
+Star Wars: Die letzten Jedi 2D;Universum Soest;08.01.2018;14:30
+Star Wars: Die letzten Jedi 2D;Universum Soest;09.01.2018;14:30
+Jumanji 3D;Cineplex Lippstadt;07.01.2018;17:45
+Jumanji 3D;Cineplex Lippstadt;07.01.2018;20:30
+Jumanji 3D;Cineplex Lippstadt;08.01.2018;17:45
+Jumanji 3D;Cineplex Lippstadt;08.01.2018;20:30
+Jumanji 3D;Cineplex Lippstadt;09.01.2018;17:45
+Jumanji 3D;Cineplex Lippstadt;09.01.2018;20:30
+Jumanji 2D;Cineplex Lippstadt;07.01.2018;14:30
+Jumanji 3D;Universum Soest;07.01.2018;21:00
+Jumanji 3D;Universum Soest;09.01.2018;21:00
+Jumanji 2D;Universum Soest;07.01.2018;15:00
+Jumanji 2D;Universum Soest;07.01.2018;17:00
+Jumanji 2D;Universum Soest;08.01.2018;14:30
+Jumanji 2D;Universum Soest;08.01.2018;17:00
+Jumanji 2D;Universum Soest;09.01.2018;14:30
+Jumanji 2D;Universum Soest;09.01.2018;17:00
